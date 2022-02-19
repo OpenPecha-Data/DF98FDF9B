@@ -8,72 +8,84 @@ annotations:
     span:
       start: 0
       end: 766
+    note_ref: 959b2d2457d647d0a28462d11f976ef9
   8ebd700c6cb14aef8a8c55386c099c97:
     imgnum: 1814
     reference: ''
     span:
       start: 769
       end: 2126
+    note_ref: 959b2d2457d647d0a28462d11f976ef9
   dee26cd9398c49cfa93115f5873b0950:
     imgnum: 1815
     reference: ''
     span:
       start: 2129
       end: 3487
+    note_ref: 959b2d2457d647d0a28462d11f976ef9
   5cb853f44af44bfa822dcda74094fe45:
     imgnum: 1816
     reference: ''
     span:
       start: 3490
       end: 4823
+    note_ref: 959b2d2457d647d0a28462d11f976ef9
   ab2d8b007f6048258284383abfa181dc:
     imgnum: 1817
     reference: ''
     span:
       start: 4826
       end: 6204
+    note_ref: 959b2d2457d647d0a28462d11f976ef9
   fdcf24ca6b3b4ce29bb0e3c86d85d960:
     imgnum: 1818
     reference: ''
     span:
       start: 6207
       end: 7541
+    note_ref: 959b2d2457d647d0a28462d11f976ef9
   75f2177aa6a7475e9f54607796a0a328:
     imgnum: 1819
     reference: ''
     span:
       start: 7544
       end: 8925
+    note_ref: 959b2d2457d647d0a28462d11f976ef9
   d27fa44c359a478a9c98a87381a5e326:
     imgnum: 1820
     reference: ''
     span:
       start: 8928
       end: 10270
+    note_ref: 959b2d2457d647d0a28462d11f976ef9
   acd477c27c6d480a93f0dc6cedaaedd0:
     imgnum: 1821
     reference: ''
     span:
       start: 10273
       end: 11632
+    note_ref: 959b2d2457d647d0a28462d11f976ef9
   4ea1791af27c486086c25170f0d8b16e:
     imgnum: 1822
     reference: ''
     span:
       start: 11635
       end: 13008
+    note_ref: 959b2d2457d647d0a28462d11f976ef9
   852a1053da4349a5a3e0d5c831f91cbb:
     imgnum: 1823
     reference: ''
     span:
       start: 13011
       end: 14366
+    note_ref: 959b2d2457d647d0a28462d11f976ef9
   34c1a8d4881646e9bad7bcf2b3010d2e:
     imgnum: 1824
     reference: ''
     span:
       start: 14369
       end: 15343
+    note_ref: 959b2d2457d647d0a28462d11f976ef9
   959b2d2457d647d0a28462d11f976ef9:
     imgnum: 1825
     reference: ''
