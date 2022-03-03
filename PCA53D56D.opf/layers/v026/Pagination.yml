@@ -14,84 +14,84 @@ annotations:
     reference: ''
     span:
       start: 766
-      end: 2122
+      end: 2120
     note_ref: 94371f5c66c44a419acf818445635bac
   c7df870b33ae4e65aa8dc9582f32a1d0:
     imgnum: 1815
     reference: ''
     span:
-      start: 2124
-      end: 3481
+      start: 2122
+      end: 3480
     note_ref: 94371f5c66c44a419acf818445635bac
   b93ccd12da7545ceb7835e0ce5f9a337:
     imgnum: 1816
     reference: ''
     span:
-      start: 3483
-      end: 4815
+      start: 3482
+      end: 4813
     note_ref: 94371f5c66c44a419acf818445635bac
   60194f1cbe7a4f5e9abc311fe8cee203:
     imgnum: 1817
     reference: ''
     span:
-      start: 4817
-      end: 6194
+      start: 4815
+      end: 6192
     note_ref: 94371f5c66c44a419acf818445635bac
   9a56cf50e9144a26b7488b90eda17a69:
     imgnum: 1818
     reference: ''
     span:
-      start: 6196
-      end: 7529
+      start: 6194
+      end: 7528
     note_ref: 94371f5c66c44a419acf818445635bac
   825862aa24464aff8969a4d9c3e420d3:
     imgnum: 1819
     reference: ''
     span:
-      start: 7531
-      end: 8911
+      start: 7530
+      end: 8909
     note_ref: 94371f5c66c44a419acf818445635bac
   3692823ea7ff437b9f4ff02c8d2ed2c8:
     imgnum: 1820
     reference: ''
     span:
-      start: 8913
-      end: 10254
+      start: 8911
+      end: 10240
     note_ref: 94371f5c66c44a419acf818445635bac
   143340576cfa4197a889c104a9361e31:
     imgnum: 1821
     reference: ''
     span:
-      start: 10256
-      end: 11614
+      start: 10242
+      end: 11601
     note_ref: 94371f5c66c44a419acf818445635bac
   755d72fa7a954e14a413a108e9afb7d4:
     imgnum: 1822
     reference: ''
     span:
-      start: 11616
-      end: 12988
+      start: 11603
+      end: 12975
     note_ref: 94371f5c66c44a419acf818445635bac
   7713c1ef25994cb69c1b25def5c03e13:
     imgnum: 1823
     reference: ''
     span:
-      start: 12990
-      end: 14344
+      start: 12977
+      end: 14331
     note_ref: 94371f5c66c44a419acf818445635bac
   c90283a06cd545b1bbec03a4bdd420d5:
     imgnum: 1824
     reference: ''
     span:
-      start: 14346
-      end: 15319
+      start: 14333
+      end: 15306
     note_ref: 94371f5c66c44a419acf818445635bac
   94371f5c66c44a419acf818445635bac:
     imgnum: 1825
     reference: ''
     span:
-      start: 15321
-      end: 16721
+      start: 15308
+      end: 16708
 local_ids:
   2ce746d766e74a06bb2cdcc388fb3dc8: 200000
   87e717ce492e48bdaa7fb507d735db75: 200001
