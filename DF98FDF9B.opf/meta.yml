@@ -1,0 +1,22 @@
+id: DF98FDF9B
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-01-07T13:49:32+00:00'
+last_modified: '2022-05-26T11:27:52.745587+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    2b8e:
+      image_group_id: I1PD95871
+      title: གནོད་སྦྱིན་ནག་པོ་ཆེན་པོ་ལ་རིན་པོ་ཆེ་བསྟོད་པ།
+      total_pages: 1902
+      order: 26
+      base_file: 2b8e.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
